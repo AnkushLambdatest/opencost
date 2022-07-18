@@ -2,7 +2,7 @@ name: Opencost repo
 
 on:
  push:
-   branches: [ main ]
+   branches: [ develop ]
 
 jobs:
   build:
